@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AulaStoryboardUFRJTarde/NovaCorViewController.swift"
+            timestampString = "591564875.872691"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AulaStoryboardUFRJTarde/NovaCorViewController.swift"
+            timestampString = "591564875.8727731"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AulaStoryboardUFRJTarde.NovaCorViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AulaStoryboardUFRJTarde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/gustavo/gustavo/AulaStoryboardUFRJTarde/AulaStoryboardUFRJTarde/NovaCorViewController.swift"
+                  timestampString = "591564623.1381429"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "648">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AulaStoryboardUFRJTarde.NovaCorViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AulaStoryboardUFRJTarde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/gustavo/gustavo/AulaStoryboardUFRJTarde/AulaStoryboardUFRJTarde/NovaCorViewController.swift"
+                  timestampString = "591564623.141632"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "879">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AulaStoryboardUFRJTarde.NovaCorViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AulaStoryboardUFRJTarde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/gustavo/gustavo/AulaStoryboardUFRJTarde/AulaStoryboardUFRJTarde/NovaCorViewController.swift"
+                  timestampString = "591564623.1461101"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1343">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AulaStoryboardUFRJTarde.NovaCorViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AulaStoryboardUFRJTarde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/gustavo/gustavo/AulaStoryboardUFRJTarde/AulaStoryboardUFRJTarde/NovaCorViewController.swift"
+                  timestampString = "591564623.147966"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1805">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AulaStoryboardUFRJTarde/NovaCorViewController.swift"
+            timestampString = "591564875.87283"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AulaStoryboardUFRJTarde/NovaCorViewController.swift"
+            timestampString = "591564875.872882"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AulaStoryboardUFRJTarde/NovaCorViewController.swift"
+            timestampString = "591564875.87293"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "NovaCorViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AulaStoryboardUFRJTarde.NovaCorViewController.corLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "AulaStoryboardUFRJTarde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/gustavo/gustavo/AulaStoryboardUFRJTarde/AulaStoryboardUFRJTarde/NovaCorViewController.swift"
+                  timestampString = "591564588.30621"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AulaStoryboardUFRJTarde.NovaCorViewController.corLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "AulaStoryboardUFRJTarde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/gustavo/gustavo/AulaStoryboardUFRJTarde/AulaStoryboardUFRJTarde/NovaCorViewController.swift"
+                  timestampString = "591564588.314813"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AulaStoryboardUFRJTarde.NovaCorViewController.corLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "AulaStoryboardUFRJTarde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/gustavo/gustavo/AulaStoryboardUFRJTarde/AulaStoryboardUFRJTarde/NovaCorViewController.swift"
+                  timestampString = "591564588.389116"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AulaStoryboardUFRJTarde.NovaCorViewController.corLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "AulaStoryboardUFRJTarde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/gustavo/gustavo/AulaStoryboardUFRJTarde/AulaStoryboardUFRJTarde/NovaCorViewController.swift"
+                  timestampString = "591564588.392064"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AulaStoryboardUFRJTarde.NovaCorViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AulaStoryboardUFRJTarde.NovaCorViewController"
+                  moduleName = "AulaStoryboardUFRJTarde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/gustavo/gustavo/AulaStoryboardUFRJTarde/AulaStoryboardUFRJTarde/NovaCorViewController.swift"
+                  timestampString = "591564588.397838"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "293">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AulaStoryboardUFRJTarde.NovaCorViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AulaStoryboardUFRJTarde.NovaCorViewController&gt;"
+                  moduleName = "AulaStoryboardUFRJTarde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/gustavo/gustavo/AulaStoryboardUFRJTarde/AulaStoryboardUFRJTarde/NovaCorViewController.swift"
+                  timestampString = "591564588.402676"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AulaStoryboardUFRJTarde/NovaCorViewController.swift"
+            timestampString = "591564875.872979"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AulaStoryboardUFRJTarde.NovaCorViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AulaStoryboardUFRJTarde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/gustavo/gustavo/AulaStoryboardUFRJTarde/AulaStoryboardUFRJTarde/NovaCorViewController.swift"
+                  timestampString = "591564622.313954"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "648">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AulaStoryboardUFRJTarde.NovaCorViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AulaStoryboardUFRJTarde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/gustavo/gustavo/AulaStoryboardUFRJTarde/AulaStoryboardUFRJTarde/NovaCorViewController.swift"
+                  timestampString = "591564622.3170511"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "879">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AulaStoryboardUFRJTarde.NovaCorViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AulaStoryboardUFRJTarde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/gustavo/gustavo/AulaStoryboardUFRJTarde/AulaStoryboardUFRJTarde/NovaCorViewController.swift"
+                  timestampString = "591564622.320529"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1343">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AulaStoryboardUFRJTarde.NovaCorViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AulaStoryboardUFRJTarde"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/gustavo/gustavo/AulaStoryboardUFRJTarde/AulaStoryboardUFRJTarde/NovaCorViewController.swift"
+                  timestampString = "591564622.322361"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1805">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
